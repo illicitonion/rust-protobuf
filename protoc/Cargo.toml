@@ -13,4 +13,4 @@ Protobuf protoc command as API
 doctest = false
 
 [dependencies]
-log = "0.*"
+log = "0.4"
